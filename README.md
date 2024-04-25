@@ -1,2 +1,2 @@
 # EmployeeManagementSystem_SpringMVC
-SpringMVC project built to manage employee data 
+Simple SpringMVC project built to manage employee data 
